@@ -43,5 +43,6 @@ Portuguese-speaking developer focused on production-shaped `.NET` work across AP
 ## Public links
 
 - Site: [starkaid01.github.io](https://starkaid01.github.io/)
+- Resume: [starkaid01.github.io/resume.html](https://starkaid01.github.io/resume.html)
 - GitHub: [@Starkaid01](https://github.com/Starkaid01)
 - Live automation surface: [starkaidautomacao.runasp.net](https://starkaidautomacao.runasp.net/)
