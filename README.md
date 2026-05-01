@@ -1,6 +1,14 @@
 # Adriano | .NET, Blazor, Kotlin
 
-I build product-style software with a strong backend and realtime focus.
+Backend-first full-stack developer focused on product software, realtime workflows, automation platforms, and regulated systems.
+
+## Best fit roles
+
+- `.NET backend` or `backend-first full-stack` engineering
+- `ASP.NET Core` and `Blazor` product development
+- system integration and realtime operator tooling
+- SaaS and line-of-business applications with multiple clients
+- Android-connected products that depend on a strong backend
 
 ## Core stack
 
@@ -11,30 +19,26 @@ I build product-style software with a strong backend and realtime focus.
 - `SQL Server`
 - `JWT`
 - `SignalR`
+- `FluentValidation`
 - `Kotlin / Android`
 
-## Focus
+## Public repositories worth reviewing first
 
-- clinical and regulated systems
-- automation and connected-device platforms
-- full-stack SaaS architecture
-- realtime user workflows
-- API design and backend integration
+- [StarkAidApi](https://github.com/Starkaid01/StarkAidApi)  
+  Automation platform with backend, web admin flows, Android integration, realtime support tooling, and deployment-aware configuration cleanup.
+- [starkaidautomacao](https://github.com/Starkaid01/starkaidautomacao)  
+  Kotlin Android application for automation, voice flows, connected-device control, and realtime support operations.
+- [ClinicoPro-NeuroObservational](https://github.com/Starkaid01/ClinicoPro-NeuroObservational)  
+  Clinical neuroassessment platform built with layered architecture, Blazor WebAssembly, EF Core, JWT, FluentValidation, and SignalR.
 
-## Featured projects
+## How I work
 
-- [StarkAidApi](https://github.com/Starkaid01/StarkAidApi)
-  Automation platform with API, web admin flows, Android client integration, realtime support tooling, and deployment-oriented configuration cleanup.
-- [starkaidautomacao](https://github.com/Starkaid01/starkaidautomacao)
-  Kotlin Android application for home automation, voice flows, connected-device control, and support operations.
-- [ClinicoPro-NeuroObservational](https://github.com/Starkaid01/ClinicoPro-NeuroObservational)
-  Clinical neuroassessment platform built with Clean Architecture, Blazor WebAssembly, EF Core, JWT, and SignalR.
+- backend and architecture first
+- product-oriented code, not tutorial code
+- cross-cutting attention to configuration, auth, runtime behavior, and deployment
+- comfortable moving across API, web client, mobile client, and integration layers
 
-## Current direction
-
-I am organizing this profile around real systems, not tutorial code. The repos here are being cleaned, documented, and published as portfolio-grade engineering work.
-
-## Contact
+## Public profile links
 
 - Site: [starkaid01.github.io](https://starkaid01.github.io/)
 - GitHub: [@Starkaid01](https://github.com/Starkaid01)
