@@ -1,4 +1,4 @@
-# Adriano | .NET, Blazor, Kotlin
+# Adriano Carmo | .NET, Blazor, Kotlin
 
 Backend-first full-stack developer focused on product software, realtime workflows, automation platforms, and regulated systems.
 
@@ -22,6 +22,14 @@ Backend-first full-stack developer focused on product software, realtime workflo
 - `FluentValidation`
 - `Kotlin / Android`
 
+## How I work best
+
+- backend and architecture first
+- written-first, asynchronous communication
+- low-interruption environments with clear technical context
+- product-oriented code, not tutorial code
+- strong attention to configuration, auth, runtime behavior, and deployment
+
 ## Public repositories worth reviewing first
 
 - [StarkAidApi](https://github.com/Starkaid01/StarkAidApi)  
@@ -30,13 +38,6 @@ Backend-first full-stack developer focused on product software, realtime workflo
   Kotlin Android application for automation, voice flows, connected-device control, and realtime support operations.
 - [ClinicoPro-NeuroObservational](https://github.com/Starkaid01/ClinicoPro-NeuroObservational)  
   Clinical neuroassessment platform built with layered architecture, Blazor WebAssembly, EF Core, JWT, FluentValidation, and SignalR.
-
-## How I work
-
-- backend and architecture first
-- product-oriented code, not tutorial code
-- cross-cutting attention to configuration, auth, runtime behavior, and deployment
-- comfortable moving across API, web client, mobile client, and integration layers
 
 ## Public profile links
 
