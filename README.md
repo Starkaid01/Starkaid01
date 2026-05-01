@@ -1,6 +1,6 @@
 # Adriano Carmo | .NET, Blazor, Kotlin
 
-Backend-first full-stack developer focused on product software, realtime workflows, automation platforms, and regulated systems.
+Portuguese-speaking backend-first full-stack developer focused on product software, realtime workflows, automation platforms, and regulated systems.
 
 ## Best fit roles
 
@@ -26,6 +26,7 @@ Backend-first full-stack developer focused on product software, realtime workflo
 
 - backend and architecture first
 - written-first, asynchronous communication
+- strongest in Portuguese and written technical communication
 - low-interruption environments with clear technical context
 - product-oriented code, not tutorial code
 - strong attention to configuration, auth, runtime behavior, and deployment
